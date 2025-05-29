@@ -16,7 +16,7 @@ Gosto de aprender fazendo, resolver problemas e ver ideias virando código. Esto
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeTheMelo&repo=CartorioEBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeTheMelo&repo=CartorioEBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
